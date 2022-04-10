@@ -24,7 +24,7 @@ mixin {
     config "botaniaconfigs.mixins.json"
 }
 
-version = '1.0'
+version = '2.0'
 group = 'dev.quarris.botaniaconfigs' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'BotaniaConfigs'
 

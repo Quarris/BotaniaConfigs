@@ -4,6 +4,7 @@
   "compatibilityLevel": "JAVA_8",
   "package": "dev.quarris.botaniaconfigs.mixin",
   "mixins": [
+    "SubTileOrechidIgnemMixin",
     "SubTileOrechidMixin"
   ],
   "client": [
